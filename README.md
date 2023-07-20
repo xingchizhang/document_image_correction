@@ -4,8 +4,8 @@
 对发生透视变换的文档图像进行几何校正处理，得到规范的文档图像。  
 几何校正的目的是把发生了透视变换的目标变换为具有真实比例和角度的目标，如下图所示：  
 左图中的地板砖经过透视变换之后，不再是正方形，经过校正之后，得到右侧图像，其中的地板砖被校正为正方形： 
-<img src="https://github.com/xingchizhang/document_image_correction/blob/main/imgs/img1.jpg" height="350px">
-<img src="https://github.com/xingchizhang/document_image_correction/blob/main/imgs/img2.jpg" height="350px">
+<img src="https://github.com/xingchizhang/document_image_correction/blob/main/imgs/img1.jpg" height="340px">
+<img src="https://github.com/xingchizhang/document_image_correction/blob/main/imgs/img2.jpg" height="340px">
 # 矫正结果展示
-<img src="https://github.com/xingchizhang/document_image_correction/blob/main/imgs/img3.jpg" height="370px"><img src="https://github.com/xingchizhang/document_image_correction/blob/main/imgs/img4.jpg" height="370px"><img src="https://github.com/xingchizhang/document_image_correction/blob/main/imgs/img5.jpg" height="370px">  
-<img src="https://github.com/xingchizhang/document_image_correction/blob/main/imgs/img6.jpg" height="370px"><img src="https://github.com/xingchizhang/document_image_correction/blob/main/imgs/img7.jpg" height="370px"><img src="https://github.com/xingchizhang/document_image_correction/blob/main/imgs/img8.jpg" height="370px">
+<img src="https://github.com/xingchizhang/document_image_correction/blob/main/imgs/img3.jpg" height="350px"><img src="https://github.com/xingchizhang/document_image_correction/blob/main/imgs/img4.jpg" height="350px"><img src="https://github.com/xingchizhang/document_image_correction/blob/main/imgs/img5.jpg" height="350px">  
+<img src="https://github.com/xingchizhang/document_image_correction/blob/main/imgs/img6.jpg" height="350px"><img src="https://github.com/xingchizhang/document_image_correction/blob/main/imgs/img7.jpg" height="350px"><img src="https://github.com/xingchizhang/document_image_correction/blob/main/imgs/img8.jpg" height="350px">
