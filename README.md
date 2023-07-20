@@ -7,6 +7,7 @@
 <img src="https://github.com/xingchizhang/document_image_correction/blob/main/imgs/img1.jpg" height="340px">
 <img src="https://github.com/xingchizhang/document_image_correction/blob/main/imgs/img2.jpg" height="340px">
 # 矫正结果展示
+共两行图片，每行图片中，第一层为输入，第二层为输出（矫正结果）  
 <img src="https://github.com/xingchizhang/document_image_correction/blob/main/imgs/img3.jpg" height="350px"><img src="https://github.com/xingchizhang/document_image_correction/blob/main/imgs/img4.jpg" height="350px"><img src="https://github.com/xingchizhang/document_image_correction/blob/main/imgs/img5.jpg" height="350px">  
 <img src="https://github.com/xingchizhang/document_image_correction/blob/main/imgs/img6.jpg" height="350px"><img src="https://github.com/xingchizhang/document_image_correction/blob/main/imgs/img7.jpg" height="350px"><img src="https://github.com/xingchizhang/document_image_correction/blob/main/imgs/img8.jpg" height="350px">
 # 算法原理
